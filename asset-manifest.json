@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/COMP3170-Population/static/css/main.397a6b7c.css",
+    "main.js": "/COMP3170-Population/static/js/main.6c15571a.js",
+    "index.html": "/COMP3170-Population/index.html",
+    "main.397a6b7c.css.map": "/COMP3170-Population/static/css/main.397a6b7c.css.map",
+    "main.6c15571a.js.map": "/COMP3170-Population/static/js/main.6c15571a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397a6b7c.css",
+    "static/js/main.6c15571a.js"
+  ]
+}
